@@ -1,0 +1,39 @@
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.csprojAssemblyReference.cache
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.AboutForm.resources
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.MainForm.resources
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.SearchForm.resources
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.GenerateResource.cache
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.CoreCompileInputs.cache
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.AboutForm.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.MainForm.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.SearchForm.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.GenerateResource.Cache
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.GoToForm.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\bin\Debug\Copywriter+.exe
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\bin\Debug\Copywriter+.pdb
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\Copywriter+.exe
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\Copywriter+.pdb
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.GoToForm.resources
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\Copywriter+.exe
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\Copywriter+.pdb
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\bin\Debug\Copywriter+.exe.config
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\bin\Debug\Copywriter+.exe
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\bin\Debug\Copywriter+.pdb
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.Properties.Resources.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\bin\Debug\Copywriter+.exe.config
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.csprojResolveAssemblyReference.cache
+D:\Шатунов Виктор Андреевич\_MSVS15Project\NewNoteBlock\NewNoteBlock\obj\Debug\NewNoteBlock.Properties.Resources.resources
+D:\Загрузки\Copywriter\NewNoteBlock\bin\Debug\Copywriter+.exe.config
+D:\Загрузки\Copywriter\NewNoteBlock\bin\Debug\Copywriter+.exe
+D:\Загрузки\Copywriter\NewNoteBlock\bin\Debug\Copywriter+.pdb
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.AssemblyReference.cache
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.AboutForm.resources
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.GoToForm.resources
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.MainForm.resources
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.Properties.Resources.resources
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.SearchForm.resources
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.GenerateResource.cache
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.CoreCompileInputs.cache
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\Copywriter+.exe
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\Copywriter+.pdb
+D:\Загрузки\Copywriter\NewNoteBlock\obj\Debug\NewNoteBlock.csproj.SuggestedBindingRedirects.cache
